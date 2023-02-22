@@ -41,25 +41,27 @@
 
           <div class="col-lg-8">
             <div class="portfolio-details-slider swiper">
-              <img src="assets/img/portfolio/portfolio3.png" alt="">
-            </div>
+                  <img src="assets/img/portfolio/portfolio4.png" alt="">
+              </div>
           </div>
 
           <div class="col-lg-4">
             <div class="portfolio-info">
               <h3>Informação do projecto</h3>
               <ul>
-                <li><strong>Nome</strong>: Mimãe MOZ</li>
-                <li><strong>Categoria</strong>: Sistema Web</li>
-                <li><strong>Cliente</strong>: Mimae</li>
-                <li><strong>Data do projecto</strong>: Março 2021</li>
-                <!--<li><strong>URL do projecto</strong>: <a href="#">www.princesamimae.com</a></li> -->
+                <li style="text-align: justify;"><strong>Nome</strong>: Sistema de Atendimento Remoto de Pacientes nos Hospitais (SARPH)</li>
+                <li><strong>Categoria</strong>: Sistema Web e Mobile</li>
+                <li><strong>Cliente</strong>: Pacientes e Ministério da Saúde</li>
+                <li><strong>Data do projecto</strong>: Novembro de 2021</li>
+                <!--<li><strong>URL do projecto</strong>: <a href="#">www.centroinfantil.com</a></li> -->
               </ul>
             </div>
             <div class="portfolio-description">
               <h2>Descrição do projecto</h2>
               <p style="text-align: justify;">
-                Este projecto foi desenvolvido no âmbito da cadeira de Programação Web como forma de aperfeiçoar os conhecimentos em relação ao HTML e CSS. O website permite ver a história da cantora Mimae, músicas, vídeos e algumas curiosidades sobre ela.
+                O SARPH é um Projecto desenvolvido e apresentado nas jornadas científicas da UJC em
+                2021. Este projecto foi desenvolvido no contexto da pandemia DA COVID-19 como forma
+                de reduzir as aglomerações em hospitais e a auto-medicação
               </p>
             </div>
           </div>
